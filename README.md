@@ -12,3 +12,4 @@ docker exec -it container-id /bin/bash
 
 docker ps
 
+Cheat Sheet: https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
