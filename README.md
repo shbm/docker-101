@@ -8,8 +8,18 @@ docker ps
 
 docker logs <container id>
 
-docker exec -it container-id /bin/bash
+docker exec -it <container-id> /bin/bash
 
 docker ps
 
-Cheat Sheet: https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
+CHEAT SHEET:
+https://github.com/wsargent/docker-cheat-sheet
+
+For Python:
+https://runnable.com/docker/python/dockerize-your-python-application
+
+For NodeJS:
+https://nodejs.org/de/docs/guides/nodejs-docker-webapp/
+
+For JAVA:
+https://stackify.com/guide-docker-java/
